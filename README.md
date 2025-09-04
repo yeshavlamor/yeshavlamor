@@ -3,6 +3,7 @@
 ## 💫 About Me
 🔭 I’m studying a Double Degree in Business and Computer Science at NTU, Singapore 
 <br> 🌱 Currently exploring the realms of Machine Learning & AI
+<br> 🌍 Passionate about exploring the intersection of AI, data and sustainability
 
 
 ### 🌐 Socials
